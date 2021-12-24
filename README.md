@@ -1,4 +1,4 @@
-# 블록체인 합의 알고리즘(blockchain consensus algorism)
+# 👩🏻‍🎓블록체인 합의 알고리즘(blockchain consensus algorism)
 
 ## 합의 알고리즘 종류
 - 작업증명 (Proof of Work, PoW) 
