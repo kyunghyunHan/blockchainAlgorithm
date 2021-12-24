@@ -1,5 +1,7 @@
 # 👩🏻‍🎓블록체인 합의 알고리즘(blockchain consensus algorism)
 
+![190924_consensus](https://user-images.githubusercontent.com/88940298/147365249-f83e1a95-c973-465c-97ad-014dda903ba9.png)
+
 ## 합의 알고리즘 종류
 - 작업증명 (Proof of Work, PoW) 
 - - 대표코인 :비트코인,라이트코인,제트캐시,모네로 등
