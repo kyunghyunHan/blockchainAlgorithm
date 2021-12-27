@@ -150,6 +150,33 @@ Chain의 길이에 따라서 두가지 Attack이 발생한다.
 - 최근에는 전력 소비로 인한 환경문제 때문에 PoS를 채택한 블록체인 플랫폼들이 많아지고 있으며 필연적으로 보인다. 
 
 
+## 🔆Pow 방식-난이도 별 속도 차이
+- 난이도 5
+![go_pow(20)](https://user-images.githubusercontent.com/88940298/147494322-08d11ae9-65e4-46df-8368-266b87053c9a.gif)
+
+- 난이도 6
+
+![go_pow(24)](https://user-images.githubusercontent.com/88940298/147494339-395aea16-25b6-47f3-ad61-cb6858d3e5bc.gif)
+
+```
+ex)난이도 상승 하면서 채굴속도가 많이 걸리는 것을 알 수 있음
+-> 해당 difficuty값에 맞는 값을 찾기위해 nonce만큼 찾음 
+-> 컴퓨팅 파워 즉 전력소모가 심함
+```
+## ♻️PoS 방식
+
+![go_pos](https://user-images.githubusercontent.com/88940298/147494388-b6d4a058-4b19-48ca-8453-c9131689290d.gif)
+
+1.지분증명에는 nonce 및 difficuty값이 없다 
+- 지분증명은 채굴을 안한다 
+- 에너지 소모가 적다
+2.지분증명에는 stake 즉 지분을 넣는 방식이다
+->지분을 많이 넣을수록 선거에 당선될 확률up!!
+
+- address: 주소값 (노드)
+- stake :지분
+- validator adress :선정된 노드 주소
+
 ## ✏️이더리움 2.0(예시)      POW -> POS 전환
 
 이더리움이 pow에서 pos로 전환하려는 이유는 크게 두 가지입니다.
