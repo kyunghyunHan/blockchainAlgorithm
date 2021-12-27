@@ -151,10 +151,12 @@ Chain의 길이에 따라서 두가지 Attack이 발생한다.
 
 
 ## 🔆Pow 방식-난이도 별 속도 차이
-- 난이도 5. 
+- 난이도 5.
+
 ![go_pow(20)](https://user-images.githubusercontent.com/88940298/147494322-08d11ae9-65e4-46df-8368-266b87053c9a.gif)
 
-- 난이도 6
+- 난이도 6. 
+
 
 ![go_pow(24)](https://user-images.githubusercontent.com/88940298/147494339-395aea16-25b6-47f3-ad61-cb6858d3e5bc.gif)
 
